@@ -28,4 +28,4 @@ properties:
       vault: SLACK_API_URL
     SLACK_CHANNEL: image-test-alert
     CLUSTER_NAME: AWS_QA
-    revision : 1
+    revision : 2
